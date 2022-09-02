@@ -12,6 +12,8 @@ sap.ui.define([
 
             },
             onTypeChar: function(oEvt){
+                //This is 1st developer code
+                
                 // we have to get the control
                 var oControl = oEvt.getSource();
                 oControl.addStyleClass("mycustomRed");
