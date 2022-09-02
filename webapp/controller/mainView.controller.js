@@ -10,8 +10,11 @@ sap.ui.define([
         return Controller.extend("com.emp.empproject9.controller.mainView", {
             onInit: function () {
              // I am second Developer but i want to keep my code                 
+             // I am second Developer but being 1st dev, i want mine code too
             },
             onTypeChar: function(oEvt){
+                //This is 1st developer code
+                
                 // we have to get the control
                 var oControl = oEvt.getSource();
                 oControl.addStyleClass("mycustomRed");
