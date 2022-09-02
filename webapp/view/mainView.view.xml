@@ -1,7 +1,7 @@
 <mvc:View controllerName="com.emp.empproject9.controller.mainView"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:f="sap.ui.layout.form"
     xmlns="sap.m">
-    <Page id="page" title="DAY 9 : SAPUI5 Assignment 30/08/2022">
+    <Page id="page" title="DAY 10 : SAPUI5 Assignment 30/08/2022 : GIT management">
         <content>
             <f:SimpleForm title="Personal Details" class="myPersonal">
                 <f:content>
