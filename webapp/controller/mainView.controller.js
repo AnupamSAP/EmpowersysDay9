@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("com.emp.empproject9.controller.mainView", {
             onInit: function () {
-
+             // I am second Developer                    
             },
             onTypeChar: function(oEvt){
                 // we have to get the control
