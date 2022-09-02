@@ -1,0 +1,31 @@
+<mvc:View controllerName="com.emp.empproject9.controller.mainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:f="sap.ui.layout.form"
+    xmlns="sap.m">
+    <Page id="page" title="DAY 9 : SAPUI5 Assignment 30/08/2022">
+        <content>
+            <f:SimpleForm title="Personal Details" class="myPersonal">
+                <f:content>
+                    <Label text="Name"/>
+                    <Input value= ""/>
+                    <Label text="Contact"/>
+                    <Input value= ""/>
+                    <Label text="Adress"/>
+                    <TextArea value= ""/>
+                   
+                </f:content>
+            </f:SimpleForm>
+            <f:SimpleForm title="Profession Details" class="myProfesional">
+                <f:content>
+                    <Label text="Company Name"/>
+                    <Input value= ""/>
+                    <Label text="Designation"/>
+                    <Input value= ""/>
+                    <Label text="Skills"/>
+                    <Input value= ""/>
+                    <Label text="Experience"/>
+                    <Input value= ""/>
+                </f:content>
+            </f:SimpleForm>
+        </content>
+    </Page>
+</mvc:View>

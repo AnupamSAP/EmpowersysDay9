@@ -1,0 +1,43 @@
+/* Enter your custom styles here */
+.mycustomBlue .sapMInputBaseInner {
+    color: #0064d9;
+}
+.mycustomRed .sapMInputBaseInner {
+    color: red;
+}
+.myPersonal .sapUiFormResLayout.sapUiFormBackgrTranslucent {
+    background-color: #7c839e;
+   
+}
+.myPersonal .sapMLabel {
+    color: #f7ce04;
+    font-weight: bold;
+}
+.myProfesional .sapUiFormResLayout.sapUiFormBackgrTranslucent {
+    background-color: rgb(11 77 145 / 30%);
+    border-radius: 0.75rem;
+}
+.myProfesional .sapMLabel {
+    color: #f70404;
+    font-weight: bold;
+}
+.sapMIBar.sapMHeader-CTX {
+  
+    background-color: #256f3a;
+    
+}
+
+.sapMInputBaseInner {
+    background: #a4a447;
+    border: none;
+    font-style: italic;
+    
+    color: #fcfdfd;
+}
+.myProfesional .sapMInputBaseInner {
+    background: #16c9c9;
+    border: none;
+    font-style: italic;
+    
+    color: #010a0a;
+}
